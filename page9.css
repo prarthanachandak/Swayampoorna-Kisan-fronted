@@ -1,0 +1,46 @@
+.header {
+  background-image: linear-gradient(to right, GreenYellow, #A3E4D7);
+  color: #fff;
+  height: 100px;
+}
+
+.header-logo {
+  color: #314F06;
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+}
+
+.header-list li {
+  list-style: none;
+  color: black;
+  float: left;
+  padding: 33px 20px;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 50%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+img{
+  margin: 20px;
+  float: right;
+}
+
+button{
+  color: black;
+  background-color: green;
+  padding:10px;
+}
